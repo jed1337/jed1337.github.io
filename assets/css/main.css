@@ -3328,3 +3328,9 @@ input, select, textarea {
 				}
 
 	}
+
+.profile_pic{
+	width: 125px;
+	height: 125px;
+	clip-path: circle();
+}
